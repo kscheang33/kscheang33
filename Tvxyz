@@ -16,6 +16,8 @@ http://42.81.144.99/live.cache.cmvideo.cn/wd_r2/cctv/cctv5plusnew/2500/index.m3u
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 ,翡翠台
 http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1 ,翡翠台
+http://www.aclive.live/dvr/2ee368c0/5tg7hf6c/index.m3u8
 #EXTINF:-1 ,astor AOD
 http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 #EXTINF:-1 ,無線新聞台

@@ -1,0 +1,241 @@
+#EXTM3U
+#EXTINF:-1 ,Asian Food Network
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 ,BBC 1
+http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
+#EXTINF:-1 ,BBC 2
+http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
+#EXTINF:-1 ,BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
+#EXTINF:-1 ,BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 ,BBC World News
+http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
+#EXTINF:-1 ,BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 ,BBS_TV(불교)
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 ,Bloomberg TV Europe
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1 ,CN卡通
+http://125.227.210.37:16671/VideoInput/play.ts
+#EXTINF:-1 ,eleven 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 ,eleven 2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,eleven_sports_2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+#EXTINF:-1 ,ELTA影劇台
+http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
+#EXTINF:-1 ,ELTA綜合台
+http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+#EXTINF:-1 ,ELTA體育3台
+http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
+#EXTINF:-1 ,FOX動作電影
+http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
+#EXTINF:-1 ,FOX家庭電影
+http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
+#EXTINF:-1 ,FOX犯罪電影
+http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
+#EXTINF:-1 ,FX HD測試
+http://125.227.210.37:13498/VideoInput/play.ts
+#EXTINF:-1 ,Global News
+https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
+#EXTINF:-1 ,HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 ,HBO
+http://198.16.106.62:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3
+#EXTINF:-1 ,HBO
+http://198.16.106.62:8278/sundance_twn/playlist.m3u8?tid=mfe0bf4686c6d&ct=18335&tsum=14c57b1bfb62b277d396eb3cf14f26c6
+#EXTINF:-1 ,HBO Family FHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7070
+#EXTINF:-1 ,HBO FHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7067
+#EXTINF:-1 ,HBO Hits FHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7068
+#EXTINF:-1 ,HBO測試
+http://125.227.210.37:16027/VideoInput/play.ts
+#EXTINF:-1 ,HGTV
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:-1 ,HGTV
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7076
+#EXTINF:-1 ,History FHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7079
+#EXTINF:-1 ,Hits Movies
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7066
+#EXTINF:-1 ,mtv台
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 ,MX Live
+http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+#EXTINF:-1 ,Nat Geo People HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7080
+#EXTINF:-1 ,Nat Geo Wild HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7081
+#EXTINF:-1 ,NatGeo Wild HD
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 ,National Geographic HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7075
+#EXTINF:-1 ,Naura
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1 ,NHK Eテレ
+http://203.162.235.41:16901
+#EXTINF:-1 ,NHK総合
+http://203.162.235.41:16903
+#EXTINF:-1 ,TVBS
+http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
+#EXTINF:-1 ,TVBS HD
+http://198.16.106.62:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
+#EXTINF:-1 ,TVBS 新聞台
+http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
+#EXTINF:-1 ,TVBS新闻 FHD
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 ,TVBS歡樂
+http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8
+#EXTINF:-1 ,Warner TV HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7072
+#EXTINF:-1 ,三立iNews FHD
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 ,三立Live FHD
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 ,三立Live新聞
+http://seb.sason.top/sc/hyxw.m3u8
+#EXTINF:-1 ,三立台灣
+http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
+#EXTINF:-1 ,三立新聞
+http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8
+#EXTINF:-1 ,三立綜合台
+http://198.16.106.62:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
+#EXTINF:-1 ,东森新闻 FHD
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 ,东森财经新闻 FHD
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 ,中天新闻 FHD
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 ,中天綜合
+http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
+#EXTINF:-1 ,中天綜合台
+http://198.16.106.62:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+#EXTINF:-1 ,中天綜合台
+http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+#EXTINF:-1 ,中牟综合
+http://live.dxhmt.cn:9081/tv/10122-1.m3u8
+#EXTINF:-1 ,中视新闻 FHD
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 ,乌克兰 Ⅰ M2 音乐频道
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 ,亚旅卫视
+http://livetv.dnsfor.me:80/channel.24.m3u8
+#EXTINF:-1 ,亚旅卫视
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF:-1 ,亞洲旅遊
+http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
+#EXTINF:-1 ,亞洲美食
+http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+#EXTINF:-1 ,半岛新闻
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 ,华视新闻 FHD
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 ,卡塔尔 Ⅰ 卡斯体育
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 ,台视新闻 FHD
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 ,國家地理野生
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11008&key=84797b799ae18d1b
+#EXTINF:-1 ,壹新聞
+http://stream.nexttv.com.tw/n001/playlist.m3u8
+#EXTINF:-1 ,壹新聞NEXTTV HD
+http://stream.nexttv.com.tw:80/n001/hd/live.m3u8
+#EXTINF:-1 ,壹新闻 FHD
+http://stream.nexttv.com.tw/n001/hd/live.m3u8
+#EXTINF:-1 ,大愛一台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 ,大立電視
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 ,天映经典
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 ,孝廉電視台
+http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
+#EXTINF:-1 ,年代新聞
+http://125.227.210.37:11055/VideoInput/play.ts
+#EXTINF:-1 ,彭博财经台
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 ,意大利 Ⅰ V2 音乐频道
+http://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 ,新唐人
+https://live.ntdimg.com/aplive200/playlist.m3u8
+#EXTINF:-1 ,新唐人加東台
+https://live.ntdimg.com/mllive860/playlist.m3u8
+#EXTINF:-1 ,新唐人加東台
+https://live.ntdimg.com/mllive220/playlist.m3u8
+#EXTINF:-1 ,新唐人加西台
+https://live.ntdimg.com/cwlive220/playlist.m3u8
+#EXTINF:-1 ,新唐人美東台
+https://live.ntdimg.com/live400/playlist.m3u8
+#EXTINF:-1 ,新唐人美西台
+https://live.ntdimg.com/uwlive520/playlist.m3u8
+#EXTINF:-1 ,新唐人美西台
+https://live.ntdimg.com/sflive220/playlist.m3u8
+#EXTINF:-1 ,新唐人美西台
+https://live.ntdimg.com/uwlive990/playlist.m3u8
+#EXTINF:-1 ,新唐人舊金山台
+https://live.ntdimg.com/sflive990/playlist.m3u8
+#EXTINF:-1 ,日本全天新聞
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 ,東森洋片
+http://125.227.210.37:18685/VideoInput/play.ts
+#EXTINF:-1 ,欢笑剧场4K
+http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
+#EXTINF:-1 ,民視
+http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8
+#EXTINF:-1 ,民視
+http://198.16.106.62:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
+#EXTINF:-1 ,民視台灣台
+http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
+#EXTINF:-1 ,民視影劇台
+http://seb.sason.top/ptv/ftv.php?id=yj
+#EXTINF:-1 ,民視新聞
+http://210.61.56.23/hls/ftvtv/index.m3u8
+#EXTINF:-1 ,民視新聞
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 ,民視旅遊台
+http://seb.sason.top/ptv/ftv.php?id=ly
+#EXTINF:-1 ,民視綜藝台
+http://seb.sason.top/ptv/ftv.php?id=zy
+#EXTINF:-1 ,民视HD
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 ,民视台湾HD
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 ,民视新闻 FHD
+http://seb.sason.top/sc/msxw_fhd.m3u8
+#EXTINF:-1 ,民视第一HD
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 ,求索动物FHD
+http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 ,点掌财经
+http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 ,玄幻影院
+https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
+#EXTINF:-1 ,緯來戲劇台
+http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
+#EXTINF:-1 ,緯來日本台
+http://198.16.106.62:8278/streams/d/videolandjapan_zero/playlist.m3u8
+#EXTINF:-1 ,緯來精彩台
+http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
+#EXTINF:-1 ,緯來綜合台
+http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
+#EXTINF:-1 ,緯來電影台
+http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
+#EXTINF:-1 ,緯來體育台
+http://125.227.210.37:18358/VideoInput/play.ts
+#EXTINF:-1 ,美食星球
+http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
+#EXTINF:-1 ,耀才財經台1
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+#EXTINF:-1 ,耀才财经
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTINF:-1 ,耀才财经台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 ,耀才财经台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=793591688
+#EXTINF:-1 ,華藏衛視
+http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8?fbclid=IwAR2uErpXmasWyKXdAsf_7CmAt16pfI_p8LnqdgrwtxWmErj7tq4NSTRtnPc

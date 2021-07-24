@@ -2,6 +2,16 @@
 
 #EXTINF:-1 ,CCTV 4K
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
+#EXTINF:-1 ,CCTV 5
+http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
+#EXTINF:-1 ,CCTV 5
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV 5
+http://42.81.144.99/live.cache.cmvideo.cn/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?&encrypt=1
+#EXTINF:-1 ,CCTV 5
+http://39.135.34.150:8080/000000001000/1000000001000004794/1.m3u8?xtkg
+#EXTINF:-1 ,CCTV 5+
+http://42.81.144.99/live.cache.cmvideo.cn/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?&encrypt=1
 #EXTINF:-1 ,TVB星河台
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 ,翡翠台

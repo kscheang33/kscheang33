@@ -1,8 +1,6 @@
 #EXTM3U
-
 #EXTINF:-1 ,香港翡翠台
 http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-
 港台电视,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8 
 港台新闻,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8 
 TVB翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8 
@@ -27,7 +25,6 @@ VIU TV: http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 中视青采,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8 
 民视新闻台,http://185.207.176.189:8080/channels/tw-302/playlist.m3u8 
 中视,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
-
 #EXTINF:-1 ,CCTV1综合高清
 http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/2300000/mnf.m3u8
 #EXTINF:-1 ,CCTV1综合高清

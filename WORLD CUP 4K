@@ -43,3 +43,9 @@ http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
 #EXTINF:-1 ,WC22
 http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
+#EXTINF:-1 ,WC23
+http://us1cdn.plusx.tv:8880/nowsport/mono.m3u8?token=24cce35b06aecc51433333
+#EXTINF:-1 ,WC24
+http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
+#EXTINF:-1 ,WC25
+https://t.me/tvbox002/808576
